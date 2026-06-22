@@ -1,5 +1,5 @@
  💫 About Me:
-## 👩‍💻 About Me<br><br>Hi, I'm **Anushka Bhatia**, a BCA (Artificial Intelligence & Machine Learning) student at **Sharda University** with a strong passion for Artificial Intelligence, Machine Learning, Data Analytics, and Software Development.<br><br>🎓 100% Merit-Cum Scholarship Holder at Sharda University<br><br>.
+## 👩‍💻 About Me<br><br>Hi, I'm **Anushka Bhatia**, a BCA (Artificial Intelligence & Machine Learning) student at **Sharda University** with a strong passion for Artificial Intelligence, Machine Learning, Data Analytics, and Software Development.<br><br>🎓 100% Merit-Cum Scholarship Holder at Sharda University<br><br>
 
 
 ## 🌐 Socials:
